@@ -20,11 +20,14 @@
 <div align="center">
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474499995376795.png"/>
     <p>
-      <a href="https://fb.com/vietthong.mac" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
+      <a href="https://www.facebook.com/nguyencongphi272" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="morbious" height="30" width="40" style="margin: 10px;" />
       </a>
-      <a href="https://www.youtube.com/@ourhappiness6539" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vietthong.mac" height="30" width="40" style="margin: 10px;" />
+      <a href="https://www.instagram.com/_morbius272" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="morbious" height="30" width="40" style="margin: 10px;" />
+      </a>
+      <a href="https://www.youtube.com/@nguyencongphi6700" target="_blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="morbious" height="30" width="40" style="margin: 10px;" />
       </a>
     </p>
   </div>
@@ -35,7 +38,7 @@
   <img src="https://raw.githubusercontent.com/vitoo16/IMAGESFAKEDATA/refs/heads/main/cooltext474500153975654.png"/>
 <p>
   <img src="https://img.shields.io/badge/-Java-%23007396?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/-C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/-C-%2300599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   <img src="https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 <p>
@@ -53,6 +56,12 @@
   <img src="https://img.shields.io/badge/-Photoshop-%2331A8FF?style=for-the-badge&logo=adobe-photoshop&logoColor=white" alt="Photoshop" />
   <img src="https://img.shields.io/badge/-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 </p>
+<p>
+  <img src="https://img.shields.io/badge/-Docker-%230db7ed?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/-Firebase-%23FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/-Ubuntu%20Server-%23E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu Server" />
+</p>
+
 <div/>
   
 ---
